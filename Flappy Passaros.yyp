@@ -36,8 +36,10 @@
   },
   "name":"Flappy Passaros",
   "resources":[
+    {"id":{"name":"obj_obstaculo","path":"objects/obj_obstaculo/obj_obstaculo.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
+    {"id":{"name":"scr_globais","path":"scripts/scr_globais/scr_globais.yy",},},
     {"id":{"name":"snd_happy_alley","path":"sounds/snd_happy_alley/snd_happy_alley.yy",},},
     {"id":{"name":"snd_levelup","path":"sounds/snd_levelup/snd_levelup.yy",},},
     {"id":{"name":"snd_pickup","path":"sounds/snd_pickup/snd_pickup.yy",},},

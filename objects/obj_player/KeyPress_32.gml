@@ -1,4 +1,9 @@
 /// @description Bater de Asas
+
+// Se perdi, não pode bater a asa
+if (global.perdeu) exit;	
+
+
 // Só pode bater asa se não estiver batendo asa
 if (image_index < 1)
 {
