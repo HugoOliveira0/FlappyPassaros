@@ -8,7 +8,7 @@ if (global.perdeu) exit;
 if (image_index < 1)
 {
 	// Subindo pra Cima
-	vspeed = -5;
+	vspeed = -4;
 
 	// Tocando a Animação
 	image_index = 1;

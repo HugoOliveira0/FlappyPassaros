@@ -1,5 +1,10 @@
 /// @description Reiniciando o Jogo
 
-// Jogo deve reiniciar
-global.perdeu = false;
+// Reiniciando o jogo
 game_restart();
+
+// Avisando que eu não perdi mais
+global.perdeu = false;
+
+// Zerando os Pontos
+global.pontos = 0;
