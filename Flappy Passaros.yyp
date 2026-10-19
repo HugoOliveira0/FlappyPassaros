@@ -40,6 +40,8 @@
   "name":"Flappy Passaros",
   "resources":[
     {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},},
+    {"id":{"name":"obj_coletavel_exp","path":"objects/obj_coletavel_exp/obj_coletavel_exp.yy",},},
+    {"id":{"name":"obj_coletavel","path":"objects/obj_coletavel/obj_coletavel.yy",},},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
     {"id":{"name":"obj_obstaculo_inf","path":"objects/obj_obstaculo_inf/obj_obstaculo_inf.yy",},},
     {"id":{"name":"obj_obstaculo_sup","path":"objects/obj_obstaculo_sup/obj_obstaculo_sup.yy",},},

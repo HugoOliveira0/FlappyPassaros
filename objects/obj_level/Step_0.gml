@@ -5,8 +5,8 @@ if (global.perdeu) exit;
 
 
 // Fazendo a velocidade do background acompanhar os níveis
-layer_hspeed("bg_arvores", -1 * global.level)
-layer_hspeed("bg_reflexo_arvores", -1 * global.level)
+layer_hspeed("bg_arvores", -global.level)
+layer_hspeed("bg_reflexo_arvores", -global.level)
 layer_hspeed("bg_reflexo2", -0.5 * global.level)
 
 
