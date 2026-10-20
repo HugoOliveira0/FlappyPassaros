@@ -1,3 +1,3 @@
 /// @description Perder ao colidir
 
-perde_jogo()
+perde_jogo();

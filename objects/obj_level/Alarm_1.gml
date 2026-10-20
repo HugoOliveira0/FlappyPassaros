@@ -1,7 +1,7 @@
 /// @description Geração dos Obstaculos Sups
 
 // Pegando a sprite do Obstaculo Superior
-var _sprite = object_get_sprite(obj_obstaculo_sup)
+var _sprite = object_get_sprite(obj_obstaculo_sup);
 
 // Criando variáveis para o X e Y da geração
 var _xx = room_width + sprite_get_width(_sprite);

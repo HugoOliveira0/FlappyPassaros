@@ -1,0 +1,10 @@
+/// @description Animando o botão
+
+// Fazendo o botão sempre voltar a escala padrão de forma suave
+image_xscale = lerp(image_xscale, escala_x, 0.1);
+image_yscale = lerp(image_yscale, escala_y, 0.1);
+
+// Fazendo o texto do botão sempre voltar a escala padrão de forma suave
+escala_texto_x = lerp(escala_texto_x, 1, 0.1);
+escala_texto_y = lerp(escala_texto_y, 1, 0.1);
+

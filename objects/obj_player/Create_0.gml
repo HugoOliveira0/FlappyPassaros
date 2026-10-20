@@ -1,7 +1,12 @@
 /// @description Iniciando o Player
 
-// Gravidade
-gravity = 0.1;
+// Reiniciando o estado da partida
+global.perdeu = false;
+global.pontos = 0;
+global.level = 1;
 
-// Zerando a velocidade da animação
+// Aguardando o fim da transição
+gravity = 0;
+
+// Zerando a animação
 image_speed = 0;

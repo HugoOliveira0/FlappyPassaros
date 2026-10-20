@@ -1,7 +1,7 @@
 /// @description Geração dos Coletáveis
 
 // Pegando a sprite do coletável
-var _sprite = object_get_sprite(obj_coletavel)
+var _sprite = object_get_sprite(obj_coletavel);
 
 // Criando variáveis para o X e Y da geração
 var _xx = room_width + (sprite_get_width(_sprite) * 2);

@@ -3,11 +3,11 @@
 if (global.perdeu) hspeed = 0
 else
 {
-	hspeed = -2
+	hspeed = -3;
 }
 
 // Excluindo se forem pra fora da tela
 if (x < 0 - sprite_get_width(spr_coletavel))
 {
-	instance_destroy()	
+	instance_destroy();	
 }

@@ -10,11 +10,11 @@ if (global.perdeu)
 else
 {
 	// Voando para esquerda e aumentando a vel por nivel
-	hspeed = -3 - global.level  
+	hspeed = -3 - global.level;
 }
 
 // Excluindo os objetos se eles estiverem fora da tela
 if (x < 0 - sprite_get_width(spr_carcara))
 {
-	instance_destroy()	
+	instance_destroy();
 }
