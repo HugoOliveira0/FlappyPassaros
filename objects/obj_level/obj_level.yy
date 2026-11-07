@@ -13,8 +13,8 @@
   "name":"obj_level",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Controles",
+    "path":"folders/Objects/Controles.yy",
   },
   "parentObjectId":null,
   "persistent":false,

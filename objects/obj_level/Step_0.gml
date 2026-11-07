@@ -12,6 +12,7 @@ layer_hspeed("bg_reflexo2", -0.5 * global.level);
 
 
 // Ganhando pontos enquanto não perdi o jogo (10 p/s)
+
 global.pontos += 10 * (delta_time / 1000000);
 
 
